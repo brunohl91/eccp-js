@@ -1,0 +1,26 @@
+{
+  "name": "eccp-js",
+  "version": "0.0.1",
+  "description": "Library created to work with ECCP (Elastix Callcenter Protocol) and NodeJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunohl91/eccp-js.git"
+  },
+  "keywords": [
+    "node",
+    "eccp",
+    "elastix",
+    "callcenter",
+    "javascript"
+  ],
+  "author": "Bruno Leite",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brunohl91/eccp-js/issues"
+  },
+  "homepage": "https://github.com/brunohl91/eccp-js#readme"
+}
